@@ -1,0 +1,1 @@
+分别在pytorch和paddle框架下训练了几十个epoch，能达到验收标准85.2%
